@@ -3,5 +3,8 @@
     <keyboard-shortcut first-keystroke="meta f9" />
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
+  <action id="MakeModule">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
   <action id="MinimizeCurrentWindow" />
 </keymap>
