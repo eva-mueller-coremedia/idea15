@@ -1,0 +1,31 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-7.1/ui/editing-rest/cap-rest-service/src/main/java/com/coremedia/rest/cap/CapObjectResource.java'" />
+    <option name="defaultScopeName" value="File '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-7.1/ui/editing-rest/cap-rest-service/src/main/java/com/coremedia/rest/cap/CapObjectResource.java'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-7.1/ui/editing-rest/cap-rest-service/src/main/java/com/coremedia/rest/cap/CapObjectResource.java'" />
+    <option name="FILE_MASK" value="*.mxml" />
+    <recentFileMasks>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.properties</mask>
+      <mask>*validators*xml</mask>
+      <mask>*.xml, *.properties</mask>
+      <mask>pom.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.*ss</mask>
+      <mask>*.js</mask>
+      <mask>*.ftl</mask>
+      <mask>*Test*.java</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.scss</mask>
+      <mask>*.scss,*mxml</mask>
+      <mask>*.scss,*.mxml</mask>
+      <mask>*.mxml</mask>
+    </recentFileMasks>
+  </component>
+</application>

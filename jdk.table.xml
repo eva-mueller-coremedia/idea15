@@ -1,0 +1,289 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_60&quot;" />
+      <homePath value="/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/lib/ant-javafx.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/lib/dt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/lib/javafx-mx.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/lib/jconsole.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/lib/packager.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/lib/sa-jdi.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/lib/tools.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/ext/zipfs.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/src.zip!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Jangaroo SDK 2.0.15" />
+      <type value="Jangaroo SDK" />
+      <homePath value="$MAVEN_REPOSITORY$/net/jangaroo/jangaroo-compiler-api/2.0.15" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/net/jangaroo/jangaroo-compiler/2.0.15/jangaroo-compiler-2.0.15.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/net/jangaroo/exml-compiler/2.0.15/exml-compiler-2.0.15.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/net/jangaroo/properties-compiler/2.0.15/properties-compiler-2.0.15.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/edu/princeton/cup/java-cup/10k/java-cup-10k.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/args4j/args4j/2.0.16/args4j-2.0.16.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.0.1/commons-io-2.0.1.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.4/commons-lang-2.4.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.15/freemarker-2.3.15.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Jangaroo SDK 2.0.16" />
+      <type value="Jangaroo SDK" />
+      <homePath value="$MAVEN_REPOSITORY$/net/jangaroo/jangaroo-compiler-api/2.0.16" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/net/jangaroo/jangaroo-compiler/2.0.16/jangaroo-compiler-2.0.16.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/net/jangaroo/exml-compiler/2.0.16/exml-compiler-2.0.16.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/net/jangaroo/properties-compiler/2.0.16/properties-compiler-2.0.16.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/edu/princeton/cup/java-cup/10k/java-cup-10k.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/args4j/args4j/2.0.16/args4j-2.0.16.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.0.1/commons-io-2.0.1.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.4/commons-lang-2.4.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.15/freemarker-2.3.15.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Chef DK: /opt/chefdk" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.1.6p336 ( revision 50298) p336" />
+      <homePath value="/opt/chefdk/embedded/bin/ruby" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/site_ruby/2.1.0" />
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/site_ruby/2.1.0/x86_64-darwin12.0" />
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/site_ruby" />
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/vendor_ruby/2.1.0" />
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/vendor_ruby/2.1.0/x86_64-darwin12.0" />
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/2.1.0" />
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/2.1.0/x86_64-darwin12.0" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/site_ruby/2.1.0" />
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/site_ruby/2.1.0/x86_64-darwin12.0" />
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/site_ruby" />
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/vendor_ruby/2.1.0" />
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/vendor_ruby/2.1.0/x86_64-darwin12.0" />
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/2.1.0" />
+            <root type="simple" url="file:///opt/chefdk/embedded/lib/ruby/2.1.0/x86_64-darwin12.0" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby21" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="/opt/chefdk/embedded/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Jangaroo SDK 2.0.17" />
+      <type value="Jangaroo SDK" />
+      <homePath value="$MAVEN_REPOSITORY$/net/jangaroo/jangaroo-compiler-api/2.0.17" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/net/jangaroo/jangaroo-compiler/2.0.17/jangaroo-compiler-2.0.17.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/net/jangaroo/exml-compiler/2.0.17/exml-compiler-2.0.17.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/net/jangaroo/properties-compiler/2.0.17/properties-compiler-2.0.17.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/edu/princeton/cup/java-cup/10k/java-cup-10k.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/args4j/args4j/2.0.16/args4j-2.0.16.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.0.1/commons-io-2.0.1.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.4/commons-lang-2.4.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.15/freemarker-2.3.15.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Jangaroo SDK 2.1-SNAPSHOT" />
+      <type value="Jangaroo SDK" />
+      <version value="2.1-SNAPSHOT" />
+      <homePath value="$MAVEN_REPOSITORY$/net/jangaroo/jangaroo-compiler-api/2.1-SNAPSHOT" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/net/jangaroo/jangaroo-compiler/2.1-SNAPSHOT/jangaroo-compiler-2.1-SNAPSHOT.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/net/jangaroo/exml-compiler/2.1-SNAPSHOT/exml-compiler-2.1-SNAPSHOT.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/net/jangaroo/properties-compiler/2.1-SNAPSHOT/properties-compiler-2.1-SNAPSHOT.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/edu/princeton/cup/java-cup/10k/java-cup-10k.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.0.1/commons-io-2.0.1.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.4/commons-lang-2.4.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.15/freemarker-2.3.15.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-configuration/commons-configuration/1.10/commons-configuration-1.10.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.4/commons-io-2.4.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Jangaroo SDK 2.1.14" />
+      <type value="Jangaroo SDK" />
+      <version value="2.1.14" />
+      <homePath value="$MAVEN_REPOSITORY$/net/jangaroo/jangaroo-compiler-api/2.1.14" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/net/jangaroo/jangaroo-compiler/2.1.14/jangaroo-compiler-2.1.14.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/net/jangaroo/exml-compiler/2.1.14/exml-compiler-2.1.14.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/net/jangaroo/properties-compiler/2.1.14/properties-compiler-2.1.14.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/edu/princeton/cup/java-cup/10k/java-cup-10k.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-configuration/commons-configuration/1.6/commons-configuration-1.6.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.0.1/commons-io-2.0.1.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.4/commons-lang-2.4.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.15/freemarker-2.3.15.jar!/" />
+            <root type="simple" url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="FlExtAs" />
+      <type value="Flex SDK Type (new)" />
+      <version value="4.10.0.20130801" />
+      <homePath value="$APPLICATION_PLUGINS_DIR$/jangaroo-0.9/FlExtAs" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_PLUGINS_DIR$/jangaroo-0.9/FlExtAs/frameworks/libs/player/11.9/playerglobal.swc!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
