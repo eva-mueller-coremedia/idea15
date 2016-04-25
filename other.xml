@@ -130,6 +130,7 @@
     <resource url="exml:com.coremedia.blueprint.studio.config.components" location="$USER_HOME$/Documents/dev/coremedia/github/cms-pandora-7.1/blueprint/modules/studio/blueprint-components/target/generated-resources/com.coremedia.blueprint.studio.config.components.xsd" />
     <resource url="exml:com.coremedia.blueprint.studio.config.contentchooser" location="$USER_HOME$/Documents/dev/coremedia/github/cms-pandora-fix/blueprint/modules/studio/studio-plugins/contentchooser-studio-plugin/target/generated-resources/com.coremedia.blueprint.studio.config.contentchooser.xsd" />
     <resource url="exml:com.coremedia.blueprint.studio.config.controlroom" location="$USER_HOME$/Documents/dev/coremedia/github/cms-pandora-7.1/blueprint/modules/studio/studio-plugins/controlroom-studio-plugin/target/generated-resources/com.coremedia.blueprint.studio.config.controlroom.xsd" />
+    <resource url="exml:com.coremedia.blueprint.studio.config.controlroommemory" location="$USER_HOME$/Documents/dev/coremedia/github/cms-pandora-7.1/blueprint/modules/studio/studio-plugins/controlroom-memory-plugin/target/generated-resources/com.coremedia.blueprint.studio.config.controlroommemory.xsd" />
     <resource url="exml:com.coremedia.blueprint.studio.config.esanalytics" location="$USER_HOME$/Documents/dev/coremedia/github/cms-pandora-7.1/blueprint/modules/extensions/es-alx/es-alx-studio-plugin/target/generated-resources/com.coremedia.blueprint.studio.config.esanalytics.xsd" />
     <resource url="exml:com.coremedia.blueprint.studio.config.externallibrary" location="$USER_HOME$/Documents/dev/coremedia/github/cms-pandora-7.1/blueprint/modules/extensions/external-library/external-library-studio/target/generated-resources/com.coremedia.blueprint.studio.config.externallibrary.xsd" />
     <resource url="exml:com.coremedia.blueprint.studio.config.googleanalytics" location="$USER_HOME$/Documents/dev/coremedia/github/cms-pandora-7.1/blueprint/modules/extensions/alx-google/alx-google-studio-plugin/target/generated-resources/com.coremedia.blueprint.studio.config.googleanalytics.xsd" />
@@ -170,7 +171,7 @@
     <resource url="exml:com.coremedia.livecontext.studio.config" location="$USER_HOME$/Documents/dev/coremedia/github/cms-pandora-7.5/blueprint/modules/extensions/lc/lc-studio/target/generated-resources/com.coremedia.livecontext.studio.config.xsd" />
     <resource url="exml:com.coremedia.personalization.ui.config" location="$USER_HOME$/Documents/dev/coremedia/github/cms-pandora-7.1/personalization/cap-personalization-ui/target/generated-resources/com.coremedia.personalization.ui.config.xsd" />
     <resource url="exml:com.coremedia.ui.config" location="$USER_HOME$/Documents/dev/coremedia/github/cms-pandora-7.1/ui/ui-toolkit/ui-components/target/generated-resources/com.coremedia.ui.config.xsd" />
-    <resource url="exml:ext.config" location="$MAVEN_REPOSITORY$/net/jangaroo/ext-as/2.0.15/ext-as-2.0.15.jar!/ext.config.xsd" />
+    <resource url="exml:ext.config" location="$MAVEN_REPOSITORY$/net/jangaroo/ext-as/2.0.17/ext-as-2.0.17.jar!/ext.config.xsd" />
     <resource url="exml:ext.ux.tree.config" location="$USER_HOME$/Documents/dev/coremedia/github/cms-pandora-7.1/ui/ui-toolkit/ext-ux/target/generated-resources/ext.ux.tree.config.xsd" />
   </component>
   <component name="NodeLocalInterpreterManager">
