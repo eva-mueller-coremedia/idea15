@@ -116,6 +116,12 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
   <component name="ExternalResourceManagerImpl">
     <resource url="exml:acme.config" location="$USER_HOME$/Documents/dev/coremedia/github/cms-pandora-7.1/ui/editor-sdk/editor-webapp-components/target/generated-resources/acme.config.xsd" />
     <resource url="exml:com.coremedia.blueprint.assets.studio.config" location="$USER_HOME$/Documents/dev/coremedia/github/cms-pandora-7.5/blueprint/modules/extensions/am/am-studio/target/generated-resources/com.coremedia.blueprint.assets.studio.config.xsd" />
