@@ -3,14 +3,13 @@
     <option name="customScope" value="File '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-7.1/ui/editing-rest/cap-rest-service/src/main/java/com/coremedia/rest/cap/CapObjectResource.java'" />
     <option name="defaultScopeName" value="File '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-7.1/ui/editing-rest/cap-rest-service/src/main/java/com/coremedia/rest/cap/CapObjectResource.java'" />
     <option name="SEARCH_SCOPE" value="File '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-7.1/ui/editing-rest/cap-rest-service/src/main/java/com/coremedia/rest/cap/CapObjectResource.java'" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.properties</mask>
       <mask>*validators*xml</mask>
       <mask>*.xml, *.properties</mask>
-      <mask>pom.xml</mask>
       <mask>*.xml</mask>
       <mask>*.</mask>
       <mask>*.*ss</mask>
@@ -26,6 +25,7 @@
       <mask>*.as</mask>
       <mask>*.as, *.mxml</mask>
       <mask>*.scss</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
