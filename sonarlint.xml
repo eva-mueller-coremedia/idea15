@@ -1,0 +1,12 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.coremedia.com:9000/" />
+          <option name="name" value="CMS" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
