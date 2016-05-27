@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-7.1/ui/editing-rest/cap-rest-service/src/main/java/com/coremedia/rest/cap/CapObjectResource.java'" />
     <option name="defaultScopeName" value="File '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-7.1/ui/editing-rest/cap-rest-service/src/main/java/com/coremedia/rest/cap/CapObjectResource.java'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-7.1/ui/editing-rest/cap-rest-service/src/main/java/com/coremedia/rest/cap/CapObjectResource.java'" />
     <recentFileMasks>
       <mask>*.html</mask>
