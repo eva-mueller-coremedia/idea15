@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="File '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-7.1/ui/editing-rest/cap-rest-service/src/main/java/com/coremedia/rest/cap/CapObjectResource.java'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-7.1/ui/editing-rest/cap-rest-service/src/main/java/com/coremedia/rest/cap/CapObjectResource.java'" />
-    <option name="FILE_MASK" value="*_de.properties" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -26,9 +26,9 @@
       <mask>*.mxml,*.scss</mask>
       <mask>*.as</mask>
       <mask>*.as, *.mxml</mask>
-      <mask>*.scss</mask>
       <mask>pom.xml</mask>
       <mask>*_de.properties</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
