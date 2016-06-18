@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-styleguide-components/src/main'" />
-    <option name="defaultScopeName" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-styleguide-components/src/main'" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-styleguide-components/src/main'" />
+    <option name="customScope" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-styleguide-components/src/main/joo/com/coremedia/blueprint/studio'" />
+    <option name="defaultScopeName" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-styleguide-components/src/main/joo/com/coremedia/blueprint/studio'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-styleguide-components/src/main/joo/com/coremedia/blueprint/studio'" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
