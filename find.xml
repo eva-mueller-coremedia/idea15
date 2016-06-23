@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/extensions/external-preview/external-preview-studio/src/main/joo/com/coremedia'" />
     <option name="defaultScopeName" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/extensions/external-preview/external-preview-studio/src/main/joo/com/coremedia'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/extensions/external-preview/external-preview-studio/src/main/joo/com/coremedia'" />
     <recentFileMasks>
       <mask>*.html</mask>
