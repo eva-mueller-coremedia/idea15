@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/extensions/upload/upload-studio/src/main/joo/com/coremedia/blueprint/studio/upload'" />
-    <option name="defaultScopeName" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/extensions/upload/upload-studio/src/main/joo/com/coremedia/blueprint/studio/upload'" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/extensions/upload/upload-studio/src/main/joo/com/coremedia/blueprint/studio/upload'" />
+    <option name="customScope" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/extensions/upload/upload-studio'" />
+    <option name="defaultScopeName" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/extensions/upload/upload-studio'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/extensions/upload/upload-studio'" />
     <option name="FILE_MASK" value="*.mxml, *.as" />
     <recentFileMasks>
       <mask>*.html</mask>
