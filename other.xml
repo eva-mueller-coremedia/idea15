@@ -180,6 +180,14 @@
     <resource url="exml:ext.config" location="$MAVEN_REPOSITORY$/net/jangaroo/ext-as/2.0.17/ext-as-2.0.17.jar!/ext.config.xsd" />
     <resource url="exml:ext.ux.tree.config" location="$USER_HOME$/Documents/dev/coremedia/github/cms-pandora-7.1/ui/ui-toolkit/ext-ux/target/generated-resources/ext.ux.tree.config.xsd" />
   </component>
+  <component name="NativeNeighbourhoodPlugin">
+    <iconsDir value="macosx" />
+    <executeWithDefaultAppCommand value="/usr/bin/open|$FilePath$" tokenizerDelims="|" />
+    <showInFileManagerCommand value="/bin/sh|$PluginsHome$/NativeNeighbourhood/classes/org/intellij/plugins/nativeNeighbourhood/icons/macosx/reveal.sh|$FilePath$" tokenizerDelims="|" />
+    <openCommandShellInCommand value="/bin/sh|$PluginsHome$/NativeNeighbourhood/classes/org/intellij/plugins/nativeNeighbourhood/icons/macosx/terminal.sh|$FileDir$" tokenizerDelims="|" />
+    <selectInFileManagerName value="MacOSX Finder" />
+    <nativeExtensions value="" />
+  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="5.0.0" last-modified="1446157829000" />
     <node-interpreter path="/usr/local/Cellar/node/5.0.0/bin/node" version="5.0.0" last-modified="1446157829000" />
