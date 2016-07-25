@@ -3,7 +3,7 @@
     <option name="customScope" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-plugins/taxonomy-studio-plugin/src/main/joo/com/coremedia/blueprint/studio/taxonomy/chooser'" />
     <option name="defaultScopeName" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-plugins/taxonomy-studio-plugin/src/main/joo/com/coremedia/blueprint/studio/taxonomy/chooser'" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-plugins/taxonomy-studio-plugin/src/main/joo/com/coremedia/blueprint/studio/taxonomy/chooser'" />
-    <option name="FILE_MASK" value="*.as, *.mxml" />
+    <option name="FILE_MASK" value="*.mxml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -20,7 +20,6 @@
       <mask>*.css</mask>
       <mask>*.scss,*mxml</mask>
       <mask>*.scss,*.mxml</mask>
-      <mask>*.mxml</mask>
       <mask>*.mxml,*.scss</mask>
       <mask>pom.xml</mask>
       <mask>*_de.properties</mask>
@@ -29,6 +28,7 @@
       <mask>*.as,*.mxml</mask>
       <mask>*.mxml, *.as</mask>
       <mask>*.as, *.mxml</mask>
+      <mask>*.mxml</mask>
     </recentFileMasks>
   </component>
 </application>
