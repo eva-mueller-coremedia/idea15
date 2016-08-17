@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-plugins/taxonomy-studio-plugin/src/main/joo/com/coremedia/blueprint/studio/taxonomy/chooser'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-plugins/taxonomy-studio-plugin/src/main/joo/com/coremedia/blueprint/studio/taxonomy/chooser'" />
-    <option name="FILE_MASK" value="*.as, *.mxml" />
+    <option name="FILE_MASK" value="*.*css" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -31,6 +31,7 @@
       <mask>*.mxml</mask>
       <mask>*.as,*.mxml</mask>
       <mask>*.as, *.mxml</mask>
+      <mask>*.*css</mask>
     </recentFileMasks>
   </component>
 </application>
