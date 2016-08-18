@@ -3,7 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-plugins/taxonomy-studio-plugin/src/main/joo/com/coremedia/blueprint/studio/taxonomy/chooser'" />
     <option name="defaultScopeName" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-plugins/taxonomy-studio-plugin/src/main/joo/com/coremedia/blueprint/studio/taxonomy/chooser'" />
+    <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-plugins/taxonomy-studio-plugin/src/main/joo/com/coremedia/blueprint/studio/taxonomy/chooser'" />
     <option name="FILE_MASK" value="*.*css" />
     <recentFileMasks>
