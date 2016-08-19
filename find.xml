@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-plugins/taxonomy-studio-plugin/src/main/joo/com/coremedia/blueprint/studio/taxonomy/chooser'" />
-    <option name="defaultScopeName" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-plugins/taxonomy-studio-plugin/src/main/joo/com/coremedia/blueprint/studio/taxonomy/chooser'" />
+    <option name="customScope" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-16.0/ui/editor-sdk/editor-components/src/main/joo/com/coremedia/cms/editor/sdk/collectionview'" />
+    <option name="defaultScopeName" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-16.0/ui/editor-sdk/editor-components/src/main/joo/com/coremedia/cms/editor/sdk/collectionview'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-14.0/blueprint/modules/studio/studio-plugins/taxonomy-studio-plugin/src/main/joo/com/coremedia/blueprint/studio/taxonomy/chooser'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-16.0/ui/editor-sdk/editor-components/src/main/joo/com/coremedia/cms/editor/sdk/collectionview'" />
     <option name="FILE_MASK" value="*.*css" />
     <recentFileMasks>
       <mask>*.html</mask>
