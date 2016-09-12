@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'social-studio-plugin'" />
+    <option name="FILE_MASK" value="*.as" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -27,12 +28,12 @@
       <mask>pom.xml</mask>
       <mask>*_de.properties</mask>
       <mask>*.scss</mask>
-      <mask>*.as</mask>
       <mask>*.mxml, *.as</mask>
       <mask>*.mxml</mask>
       <mask>*.as,*.mxml</mask>
       <mask>*.*css</mask>
       <mask>*.as, *.mxml</mask>
+      <mask>*.as</mask>
     </recentFileMasks>
   </component>
 </application>
