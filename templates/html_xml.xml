@@ -1,0 +1,17 @@
+<templateSet group="html/xml">
+  <template name="BEM VERTICAL" value="&lt;plugins&gt;&#10;  &lt;ui:BEMPlugin block=&quot;{BEMLayouts.VERTICAL_SPACING_BLOCK}&quot;&#10;                defaultElement=&quot;{BEMLayouts.VERTICAL_SPACING_ELEMENT_ITEM}&quot;/&gt;&#10;&lt;/plugins&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="MXML" value="true" />
+    </context>
+  </template>
+  <template name="BEM HORIZONTAL" value="&lt;plugins&gt;&#10;  &lt;ui:BEMPlugin block=&quot;{BEMLayouts.HORIZONTAL_SPACING_BLOCK}&quot;&#10;                defaultElement=&quot;{BEMLayouts.HORIZONTAL_SPACING_ELEMENT_ITEM}&quot;/&gt;&#10;&lt;/plugins&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="MXML" value="true" />
+    </context>
+  </template>
+</templateSet>
