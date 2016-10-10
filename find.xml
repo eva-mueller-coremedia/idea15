@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-16.0/elastic/social/social-studio-plugin/src/main/joo/com/coremedia/elastic/social/studio/usermanagement'" />
+    <option name="FILE_MASK" value="*.mxml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -25,12 +26,12 @@
       <mask>*_de.properties</mask>
       <mask>*.scss</mask>
       <mask>*.mxml, *.as</mask>
-      <mask>*.mxml</mask>
       <mask>*.as,*.mxml</mask>
       <mask>*.*css</mask>
       <mask>*.as</mask>
       <mask>*.as, *.mxml</mask>
       <mask>pom.xml</mask>
+      <mask>*.mxml</mask>
     </recentFileMasks>
   </component>
 </application>
