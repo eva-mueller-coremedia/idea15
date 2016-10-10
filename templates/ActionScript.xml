@@ -1,5 +1,5 @@
 <templateSet group="ActionScript">
-  <template name="log" value="window.console.log($SELECTION$);" toReformat="true" toShortenFQNames="true">
+  <template name="log" value="window.console.log($SELECTION$); // TODO remove when done" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="ACTION_SCRIPT" value="true" />
     </context>
