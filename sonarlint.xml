@@ -3,7 +3,7 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://sonar.coremedia.com:9000/" />
+          <option name="hostUrl" value="https://sonar-test-01.coremedia.vm/" />
           <option name="name" value="CMS" />
         </SonarQubeServer>
       </list>
