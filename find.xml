@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-16.0/elastic/social/social-studio-plugin/src/main/joo/com/coremedia/elastic/social/studio/usermanagement'" />
-    <option name="defaultScopeName" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-16.0/elastic/social/social-studio-plugin/src/main/joo/com/coremedia/elastic/social/studio/usermanagement'" />
+    <option name="customScope" value="File '/Users/emueller/Documents/dev/coremedia/github/hackathon-fall-2016/cms/coremedia-cloud-manager/cloud-manager-webapp/src/main/java/com/coremedia/cloudmanager/spring/CapAuthenticationProvider.java'" />
+    <option name="defaultScopeName" value="File '/Users/emueller/Documents/dev/coremedia/github/hackathon-fall-2016/cms/coremedia-cloud-manager/cloud-manager-webapp/src/main/java/com/coremedia/cloudmanager/spring/CapAuthenticationProvider.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/emueller/Documents/dev/coremedia/github/cms-pandora-16.0/elastic/social/social-studio-plugin/src/main/joo/com/coremedia/elastic/social/studio/usermanagement'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/emueller/Documents/dev/coremedia/github/hackathon-fall-2016/cms/coremedia-cloud-manager/cloud-manager-webapp/src/main/java/com/coremedia/cloudmanager/spring/CapAuthenticationProvider.java'" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
