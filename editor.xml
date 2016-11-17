@@ -19,13 +19,35 @@
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="e357ac" />
     </pattern>
-    <pattern icon="important" useCustomColors="false" case-sensitive="true" pattern="\bEXTJS\b.*">
-      <option name="FOREGROUND" value="73bf" />
+    <pattern icon="important" useCustomColors="true" case-sensitive="false" pattern="(TODO Ext)(.*)">
+      <option name="FOREGROUND" value="e357ac" />
       <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+      <option name="EFFECT_COLOR" value="2bbf25" />
+      <option name="ERROR_STRIPE_COLOR" value="e357ac" />
+      <option name="EFFECT_TYPE" value="2" />
     </pattern>
-    <filter name="EXTJS">
+    <pattern icon="default" useCustomColors="true" case-sensitive="false" pattern="(TODO Ext)(.*)([^frontend])">
+      <option name="FOREGROUND" value="2bbf25" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_COLOR" value="2bbf25" />
+      <option name="ERROR_STRIPE_COLOR" value="2bbf25" />
+      <option name="EFFECT_TYPE" value="2" />
+    </pattern>
+    <pattern icon="default" useCustomColors="true" case-sensitive="false" pattern="(TODO Ext)(.*)(frontend)(.*)">
+      <option name="FOREGROUND" value="e357ac" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_COLOR" value="e357ac" />
+      <option name="ERROR_STRIPE_COLOR" value="e357ac" />
+      <option name="EFFECT_TYPE" value="2" />
+    </pattern>
+    <filter name="EXTJS ALL">
       <pattern index="3" />
+    </filter>
+    <filter name="Ext6 JS Frontend">
+      <pattern index="5" />
+    </filter>
+    <filter name="Ext6 JS Non Frontend">
+      <pattern index="4" />
     </filter>
   </component>
 </application>
