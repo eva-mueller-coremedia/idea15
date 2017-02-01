@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/emueller/Documents/dev/coremedia/github/hackathon-fall-2016/cms/coremedia-cloud-manager/cloud-manager-webapp/src/main/java/com/coremedia/cloudmanager/spring/CapAuthenticationProvider.java'" />
-    <option name="FILE_MASK" value="*.mxml" />
+    <option name="FILE_MASK" value="*Test.java" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -18,7 +18,6 @@
       <mask>*.js</mask>
       <mask>*.ftl</mask>
       <mask>*Test*.java</mask>
-      <mask>*.java</mask>
       <mask>*.css</mask>
       <mask>*.scss,*mxml</mask>
       <mask>*.scss,*.mxml</mask>
@@ -33,6 +32,8 @@
       <mask>*tomcat*</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
+      <mask>*.java</mask>
+      <mask>*Test.java</mask>
     </recentFileMasks>
   </component>
 </application>
