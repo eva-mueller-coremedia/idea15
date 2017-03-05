@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleSystemSettings">
+    <option name="serviceDirectoryPath" value="$USER_HOME$/Documents/dev/coremedia/github/ci-configuration/gradle/wrapper" />
+  </component>
+</application>
