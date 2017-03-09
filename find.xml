@@ -3,8 +3,11 @@
     <option name="customScope" value="File '/Users/emueller/Documents/dev/coremedia/github/hackathon-fall-2016/cms/coremedia-cloud-manager/cloud-manager-webapp/src/main/java/com/coremedia/cloudmanager/spring/CapAuthenticationProvider.java'" />
     <option name="defaultScopeName" value="File '/Users/emueller/Documents/dev/coremedia/github/hackathon-fall-2016/cms/coremedia-cloud-manager/cloud-manager-webapp/src/main/java/com/coremedia/cloudmanager/spring/CapAuthenticationProvider.java'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/emueller/Documents/dev/coremedia/github/hackathon-fall-2016/cms/coremedia-cloud-manager/cloud-manager-webapp/src/main/java/com/coremedia/cloudmanager/spring/CapAuthenticationProvider.java'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -31,8 +34,8 @@
       <mask>*tomcat*</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
-      <mask>*.java</mask>
       <mask>*Test.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
