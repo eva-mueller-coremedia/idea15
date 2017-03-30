@@ -36,9 +36,6 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl meta alt o" />
   </action>
-  <action id="Git.Stash">
-    <keyboard-shortcut first-keystroke="meta alt s" />
-  </action>
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
@@ -47,6 +44,9 @@
   </action>
   <action id="Jdbc.OpenTableEditor">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Macro.Switch to simple Quotes">
+    <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="shift meta m" />

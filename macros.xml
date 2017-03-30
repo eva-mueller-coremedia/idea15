@@ -1,0 +1,13 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Switch to simple Quotes">
+      <action id="EditorSelectWord" />
+      <action id="EditorSelectWord" />
+      <action id="EditorCopy" />
+      <action id="EditorCut" />
+      <action id="EditorSelectWord" />
+      <typing text-keycode="92:1">'</typing>
+      <action id="EditorPaste" />
+    </macro>
+  </component>
+</application>
