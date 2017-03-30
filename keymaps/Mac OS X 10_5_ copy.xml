@@ -3,9 +3,38 @@
     <keyboard-shortcut first-keystroke="meta f9" />
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
+  <action id="Console.TableResult.NavigateAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="CopyAsPlainText">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="DSM.OpenInEditor">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DomCollectionControl.Edit">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift alt v" />
+  </action>
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="ExternalSystem.OpenConfig">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="meta f12" />
-    <keyboard-shortcut first-keystroke="shift alt o" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt o" />
   </action>
   <action id="Git.Stash">
     <keyboard-shortcut first-keystroke="meta alt s" />
@@ -13,10 +42,26 @@
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
+  <action id="Graph.Faces.OpenSelectedPages">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Jdbc.OpenTableEditor">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="OpenModuleSettings">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="RecentChanges" />
+  <action id="RemoteHostView.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
