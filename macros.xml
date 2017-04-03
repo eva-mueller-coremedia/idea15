@@ -1,8 +1,6 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="Switch to simple Quotes">
-      <action id="EditorSelectWord" />
-      <action id="EditorSelectWord" />
       <action id="EditorCopy" />
       <action id="EditorCut" />
       <action id="EditorSelectWord" />
