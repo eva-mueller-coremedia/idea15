@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '/Users/emueller/Documents/dev/coremedia/github/hackathon-fall-2016/cms/coremedia-cloud-manager/cloud-manager-webapp/src/main/java/com/coremedia/cloudmanager/spring/CapAuthenticationProvider.java'" />
-    <option name="defaultScopeName" value="File '/Users/emueller/Documents/dev/coremedia/github/hackathon-fall-2016/cms/coremedia-cloud-manager/cloud-manager-webapp/src/main/java/com/coremedia/cloudmanager/spring/CapAuthenticationProvider.java'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/emueller/Documents/dev/coremedia/github/hackathon-fall-2016/cms/coremedia-cloud-manager/cloud-manager-webapp/src/main/java/com/coremedia/cloudmanager/spring/CapAuthenticationProvider.java'" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
